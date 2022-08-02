@@ -7,7 +7,7 @@ CODE WALK-THROUGH:
 -Were a random number is picked from a certain range and clues are given to aid the user guess the number.
 -The user gets three chances to guess the number
 -If by chance the user can't win the game the user would die and quit the game.
--If the user wins he is given the opportunity to play again or end the game and leave with the cash price or move onto level 2.
+-If the user wins he is given the opportunity to play again or end the game and leave with the cash price or move onto level 2
 """
 
 
